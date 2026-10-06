@@ -1,2 +1,3 @@
-# personal-extensions-dist
-Android and Tachimanga extension distribution files
+# GeumHun Android Extensions
+
+Distribution files for seven Android extensions.

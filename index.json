@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Tachiyomi: Toonkor",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.toonkor",
+    "apk": "tachiyomi-ko.toonkor-v1.1.1.apk",
+    "lang": "ko",
+    "code": 200000001,
+    "version": "1.1.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "id": "6596496791271983268",
+        "name": "Toonkor",
+        "lang": "ko",
+        "baseUrl": "https://tkor154.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Goodtoon 웹툰",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.goodtoonwebtoontest",
+    "apk": "tachiyomi-ko.goodtoonwebtoontest-v1.1.1.apk",
+    "lang": "ko",
+    "code": 200000001,
+    "version": "1.1.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "id": "760550510744678728",
+        "name": "Goodtoon 웹툰",
+        "lang": "ko",
+        "baseUrl": "https://www.goodtoon004.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: 11toon",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
+    "apk": "tachiyomi-ko.toon11-v1.1.1.apk",
+    "lang": "ko",
+    "code": 200000001,
+    "version": "1.1.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "id": "8796296375202334266",
+        "name": "11toon 만화",
+        "lang": "ko",
+        "baseUrl": "https://11toon.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Blacktoon 웹툰",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.blacktoon",
+    "apk": "tachiyomi-ko.blacktoon-v1.1.1.apk",
+    "lang": "ko",
+    "code": 200000001,
+    "version": "1.1.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "id": "7080800841003944426",
+        "name": "Blacktoon 웹툰",
+        "lang": "ko",
+        "baseUrl": "https://blacktoon423.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: xtoon 웹툰",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.xtoonwebtoon",
+    "apk": "tachiyomi-ko.xtoonwebtoon-v1.1.1.apk",
+    "lang": "ko",
+    "code": 200000001,
+    "version": "1.1.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "id": "4592523259214971588",
+        "name": "xtoon 웹툰",
+        "lang": "ko",
+        "baseUrl": "https://newxtoon1.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Toki 만화",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.dcmanhwa.tokimanga",
+    "apk": "tachiyomi-ko.dcmanhwa.tokimanga-v1.1.1.apk",
+    "lang": "ko",
+    "code": 200000001,
+    "version": "1.1.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "id": "2734535008699574001",
+        "name": "Toki 만화",
+        "lang": "ko",
+        "baseUrl": "https://sbxh9.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Toki 웹툰",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.dcmanhwa.tokiwebtoon",
+    "apk": "tachiyomi-ko.dcmanhwa.tokiwebtoon-v1.1.1.apk",
+    "lang": "ko",
+    "code": 200000001,
+    "version": "1.1.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "id": "5326617696015120946",
+        "name": "Toki 웹툰",
+        "lang": "ko",
+        "baseUrl": "https://sbxh9.com"
+      }
+    ]
+  }
+]

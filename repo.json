@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "name": "GeumHun Android Extensions",
+    "shortName": "GeumHun",
+    "website": "https://github.com/GeumHun/personal-extensions-dist",
+    "signingKeyFingerprint": "c95cc92da6285df9d86110be6fa35994c005c939a47672ec60dd3ecfe297d205"
+  }
+}
