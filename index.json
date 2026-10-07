@@ -36,10 +36,10 @@
   {
     "name": "Tachiyomi: 11toon",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
-    "apk": "tachiyomi-ko.toon11-v1.1.1.apk",
+    "apk": "tachiyomi-ko.toon11-v1.1.2.apk",
     "lang": "ko",
-    "code": 200000001,
-    "version": "1.1.1",
+    "code": 200000002,
+    "version": "1.1.2",
     "nsfw": 0,
     "sources": [
       {
@@ -87,10 +87,10 @@
   {
     "name": "Tachiyomi: Toki 만화",
     "pkg": "eu.kanade.tachiyomi.extension.ko.dcmanhwa.tokimanga",
-    "apk": "tachiyomi-ko.dcmanhwa.tokimanga-v1.1.1.apk",
+    "apk": "tachiyomi-ko.dcmanhwa.tokimanga-v1.1.2.apk",
     "lang": "ko",
-    "code": 200000001,
-    "version": "1.1.1",
+    "code": 200000002,
+    "version": "1.1.2",
     "nsfw": 1,
     "sources": [
       {
