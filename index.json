@@ -7,6 +7,7 @@
     "code": 200000001,
     "version": "1.1.1",
     "nsfw": 0,
+    "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/toonkor.png",
     "sources": [
       {
         "id": "6596496791271983268",
@@ -24,6 +25,7 @@
     "code": 200000001,
     "version": "1.1.1",
     "nsfw": 1,
+    "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/goodtoon.png",
     "sources": [
       {
         "id": "760550510744678728",
@@ -41,6 +43,7 @@
     "code": 200000002,
     "version": "1.1.2",
     "nsfw": 0,
+    "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/toon11.png",
     "sources": [
       {
         "id": "8796296375202334266",
@@ -58,6 +61,7 @@
     "code": 200000001,
     "version": "1.1.1",
     "nsfw": 0,
+    "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/blacktoon.png",
     "sources": [
       {
         "id": "7080800841003944426",
@@ -75,6 +79,7 @@
     "code": 200000001,
     "version": "1.1.1",
     "nsfw": 0,
+    "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/xtoonwebtoon.png",
     "sources": [
       {
         "id": "4592523259214971588",
@@ -92,6 +97,7 @@
     "code": 200000002,
     "version": "1.1.2",
     "nsfw": 1,
+    "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/tokimanga.png",
     "sources": [
       {
         "id": "2734535008699574001",
@@ -104,11 +110,12 @@
   {
     "name": "Tachiyomi: Toki 웹툰",
     "pkg": "eu.kanade.tachiyomi.extension.ko.dcmanhwa.tokiwebtoon",
-    "apk": "tachiyomi-ko.dcmanhwa.tokiwebtoon-v1.1.1.apk",
+    "apk": "tachiyomi-ko.dcmanhwa.tokiwebtoon-v1.1.2.apk",
     "lang": "ko",
-    "code": 200000001,
-    "version": "1.1.1",
+    "code": 200000002,
+    "version": "1.1.2",
     "nsfw": 1,
+    "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/tokiwebtoon.png",
     "sources": [
       {
         "id": "5326617696015120946",
