@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Toonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toonkor",
-    "apk": "tachiyomi-ko.toonkor-v1.1.2.apk",
+    "apk": "tachiyomi-ko.toonkor-v1.1.3.apk",
     "lang": "ko",
-    "code": 200000002,
-    "version": "1.1.2",
+    "code": 200000003,
+    "version": "1.1.3",
     "nsfw": 0,
     "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/toonkor.png",
     "sources": [
