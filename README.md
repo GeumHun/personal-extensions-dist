@@ -1,3 +1,3 @@
 # GeumHun Tachimanga Extensions
 
-Five verified APKs. Register: https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/tachimanga/index.min.json
+Seven APKs (Toki iPhone runtime unverified). Register: https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/tachimanga/index.min.json
