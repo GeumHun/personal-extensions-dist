@@ -18,18 +18,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: Goodtoon ����",
+    "name": "Tachiyomi: Goodtoon 웹툰",
     "pkg": "eu.kanade.tachiyomi.extension.ko.goodtoonwebtoontest",
-    "apk": "tachiyomi-ko.goodtoonwebtoontest-v1.1.7.apk",
+    "apk": "tachiyomi-ko.goodtoonwebtoontest-v1.1.8.apk",
     "lang": "ko",
-    "code": 200000007,
-    "version": "1.1.7",
+    "code": 200000008,
+    "version": "1.1.8",
     "nsfw": 1,
     "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/goodtoon.png",
     "sources": [
       {
         "id": "760550510744678728",
-        "name": "Goodtoon ����",
+        "name": "Goodtoon 웹툰",
         "lang": "ko",
         "baseUrl": "https://www.goodtoon009.com"
       }
@@ -72,18 +72,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: xtoon ����",
+    "name": "Tachiyomi: xtoon 웹툰",
     "pkg": "eu.kanade.tachiyomi.extension.ko.xtoonwebtoon",
-    "apk": "tachiyomi-ko.xtoonwebtoon-v1.1.6.apk",
+    "apk": "tachiyomi-ko.xtoonwebtoon-v1.1.7.apk",
     "lang": "ko",
-    "code": 200000006,
-    "version": "1.1.6",
+    "code": 200000007,
+    "version": "1.1.7",
     "nsfw": 0,
     "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/xtoonwebtoon.png",
     "sources": [
       {
         "id": "4592523259214971588",
-        "name": "xtoon ����",
+        "name": "xtoon 웹툰",
         "lang": "ko",
         "baseUrl": "https://newxtoon4.com"
       }
