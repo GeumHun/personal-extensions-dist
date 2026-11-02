@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Toonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toonkor",
-    "apk": "tachiyomi-ko.toonkor-v1.1.8.apk",
+    "apk": "tachiyomi-ko.toonkor-v1.1.9.apk",
     "lang": "ko",
-    "code": 200000008,
-    "version": "1.1.8",
+    "code": 200000009,
+    "version": "1.1.9",
     "nsfw": 0,
     "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/toonkor.png",
     "sources": [
@@ -13,25 +13,25 @@
         "id": "6596496791271983268",
         "name": "Toonkor",
         "lang": "ko",
-        "baseUrl": "https://toonkor.site"
+        "baseUrl": "https://002.toonkor.net"
       }
     ]
   },
   {
-    "name": "Tachiyomi: Goodtoon 웹툰",
+    "name": "Tachiyomi: Goodtoon ����",
     "pkg": "eu.kanade.tachiyomi.extension.ko.goodtoonwebtoontest",
-    "apk": "tachiyomi-ko.goodtoonwebtoontest-v1.1.6.apk",
+    "apk": "tachiyomi-ko.goodtoonwebtoontest-v1.1.7.apk",
     "lang": "ko",
-    "code": 200000006,
-    "version": "1.1.6",
+    "code": 200000007,
+    "version": "1.1.7",
     "nsfw": 1,
     "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/goodtoon.png",
     "sources": [
       {
         "id": "760550510744678728",
-        "name": "Goodtoon 웹툰",
+        "name": "Goodtoon ����",
         "lang": "ko",
-        "baseUrl": "https://www.goodtoon008.com"
+        "baseUrl": "https://www.goodtoon009.com"
       }
     ]
   },
@@ -72,20 +72,20 @@
     ]
   },
   {
-    "name": "Tachiyomi: xtoon 웹툰",
+    "name": "Tachiyomi: xtoon ����",
     "pkg": "eu.kanade.tachiyomi.extension.ko.xtoonwebtoon",
-    "apk": "tachiyomi-ko.xtoonwebtoon-v1.1.5.apk",
+    "apk": "tachiyomi-ko.xtoonwebtoon-v1.1.6.apk",
     "lang": "ko",
-    "code": 200000005,
-    "version": "1.1.5",
+    "code": 200000006,
+    "version": "1.1.6",
     "nsfw": 0,
     "iconUrl": "https://raw.githubusercontent.com/GeumHun/personal-extensions-dist/android/icon/xtoonwebtoon.png",
     "sources": [
       {
         "id": "4592523259214971588",
-        "name": "xtoon 웹툰",
+        "name": "xtoon ����",
         "lang": "ko",
-        "baseUrl": "https://newxtoon3.com"
+        "baseUrl": "https://newxtoon4.com"
       }
     ]
   },
